@@ -1,2 +1,5 @@
 # nrail
 National rail api readme
+
+SCRAPPED. DOESNT DISPLAY THE FUCKING LENGTH. REEEEEEEEEEEEE
+
